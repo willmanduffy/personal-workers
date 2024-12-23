@@ -1,0 +1,10 @@
+name = "create-empty-dehumidifier-task"
+main = "src/index.ts"
+compatibility_date = "2024-02-23"
+
+kv_namespaces = [
+  { binding = "PERSONAL_WORKERS_KV", id = "51611321ca594c3992bb1904fc40da93" }
+]
+
+[triggers]
+crons = ["0 * * * *"]

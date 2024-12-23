@@ -1,0 +1,21 @@
+# Dependencies
+node_modules
+.pnpm-store
+
+# Build outputs
+dist
+.turbo
+.wrangler
+.cloudflare
+
+# Environment
+.env
+.env.*
+!.env.example
+.dev.vars
+!.dev.vars.example
+
+# Editor/OS
+.DS_Store
+.vscode
+*.log 
