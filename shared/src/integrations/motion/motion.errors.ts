@@ -19,7 +19,6 @@ export class MotionApiError extends Error {
 }
 
 export function isMotionApiError(error: unknown): error is MotionApiError {
-  debugger;
   return (
     error instanceof Error &&
     typeof (error as any).statusCode === "number" &&
