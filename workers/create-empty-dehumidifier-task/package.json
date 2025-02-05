@@ -11,7 +11,7 @@
     "@personal-workers/shared": "workspace:*"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "4.20250124.3",
+    "@cloudflare/workers-types": "4.20250204.0",
     "wrangler": "3.105.1"
   }
 } 
