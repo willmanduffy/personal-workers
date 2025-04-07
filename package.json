@@ -13,7 +13,7 @@
     "@cloudflare/workers-types": "4.20250327.0"
   },
   "devDependencies": {
-    "turbo": "2.4.4",
+    "turbo": "2.5.0",
     "prettier": "3.5.3",
     "typescript": "5.8.2"
   }
