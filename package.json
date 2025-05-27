@@ -10,7 +10,7 @@
   "dependencies": {
     "date-fns": "4.1.0",
     "zod": "3.25.28",
-    "@cloudflare/workers-types": "4.20250520.0"
+    "@cloudflare/workers-types": "4.20250525.0"
   },
   "devDependencies": {
     "turbo": "2.5.3",
