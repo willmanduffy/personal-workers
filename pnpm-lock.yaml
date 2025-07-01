@@ -15,8 +15,8 @@ importers:
         specifier: 4.1.0
         version: 4.1.0
       zod:
-        specifier: 3.25.56
-        version: 3.25.56
+        specifier: 3.25.67
+        version: 3.25.67
     devDependencies:
       prettier:
         specifier: 3.6.2
@@ -924,8 +924,8 @@ packages:
   zod@3.22.3:
     resolution: {integrity: sha512-EjIevzuJRiRPbVH4mGc8nApb/lVLKVpmUhAaR5R5doKGfAnGJ6Gr3CViAVjP+4FWSxCsybeWQdcgCtbX+7oZug==}
 
-  zod@3.25.56:
-    resolution: {integrity: sha512-rd6eEF3BTNvQnR2e2wwolfTmUTnp70aUTqr0oaGbHifzC3BKJsoV+Gat8vxUMR1hwOKBs6El+qWehrHbCpW6SQ==}
+  zod@3.25.67:
+    resolution: {integrity: sha512-idA2YXwpCdqUSKRCACDE6ItZD9TZzy3OZMtpfLoh6oPR47lipysRrJfjzMqFxQ3uJuUPyUeWe1r9vLH33xO/Qw==}
 
 snapshots:
 
@@ -1682,4 +1682,4 @@ snapshots:
 
   zod@3.22.3: {}
 
-  zod@3.25.56: {}
+  zod@3.25.67: {}
